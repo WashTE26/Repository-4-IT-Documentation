@@ -1,84 +1,38 @@
-# Home Lab
+## Home Lab Setup
 
-## Overview
+### Workstation Overview
 
-This section documents my personal IT home lab, which I use for hands-on practice with computer hardware, workstation setup, networking, troubleshooting, and technical support skills.
+![Home Lab Workstation](images/workstation-overview.png)
 
-The lab gives me a practical environment to apply concepts learned through coursework, certification training, and independent study.
+Dual-monitor workstation used for IT practice, troubleshooting, coursework,
+documentation, and technical projects.
 
-## Purpose of the Home Lab
+### Monitor Setup
 
-The home lab is used to practice:
+![Monitor 1](images/monitor-1.png)
 
-- Workstation setup
-- Hardware identification
-- Monitor and peripheral configuration
-- Network connectivity
-- Windows troubleshooting
-- Device configuration
-- Driver troubleshooting
-- Software installation
-- Command-line tools
-- Technical documentation
-- Problem isolation and resolution
+![Monitor 2](images/monitor-2.png)
 
-## Workstation Setup
+Two Dell external monitors are used to support multitasking, technical labs,
+documentation, research, and troubleshooting activities.
 
-My home lab includes a dedicated workstation environment used for IT practice, coursework, troubleshooting, and technical projects.
+### USB-C to HDMI Connectivity
 
-The setup may include:
+![USB-C to HDMI Connector](images/usb-c-to-hdmi-connector.png)
 
-- Laptop or desktop computer
-- External monitors
-- Keyboard and mouse
-- Docking or display connections
-- Network equipment
-- Cables and adapters
-- Storage devices
-- Other peripherals
+USB-C to HDMI connectivity is used to connect the laptop to external displays
+as part of the workstation configuration.
 
-## Hands-On Activities
+### Power and Cable Management
 
-Examples of activities completed using the home lab include:
+![Surge Protector](images/surge-protector.png)
 
-- Connecting and configuring workstation components
-- Identifying hardware and ports
-- Troubleshooting display and connectivity issues
-- Troubleshooting Windows devices
-- Reviewing Device Manager
-- Testing network connectivity
-- Practicing PowerShell and Command Prompt commands
-- Installing and configuring software
-- Documenting troubleshooting steps and outcomes
+A multi-device surge protector/power station supports the workstation equipment
+and peripherals.
 
-## Skills Demonstrated
+### Peripheral Equipment
 
-- IT support
-- Desktop support
-- Hardware setup
-- Windows administration
-- Basic networking
-- Technical troubleshooting
-- Device configuration
-- Problem solving
-- Technical documentation
-- End-user support
+![Mouse](images/mouse.png)
 
-## Tools and Technologies
-
-- Windows 11
-- PowerShell
-- Command Prompt
-- Device Manager
-- Windows Services
-- Visual Studio Code
-- Git
-- GitHub
-
-## Portfolio Goal
-
-This home lab supports my development toward entry-level and junior IT roles by providing a practical environment where I can build and document hands-on technical experience.
-
-## Privacy Notice
-
-Images and documentation included in this section have been reviewed to avoid exposing passwords, account credentials, private network information, serial numbers, or other sensitive information.
+External mouse used as part of the workstation setup for daily IT lab and
+technical support activities.

@@ -41,6 +41,13 @@ Examples may include:
 - Troubleshooting exercises
 - Lab upgrades and changes
 
+### Certifications and Technical Training
+
+Includes industry certifications and structured technical training in cybersecurity,
+Linux, Splunk, CompTIA A+ topics, and networking.
+
+[View Certifications and Technical Training](Certifications-and-Training)
+
 ### Troubleshooting Documentation
 
 Documents technical issues and the troubleshooting process used to identify,

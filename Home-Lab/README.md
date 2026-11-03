@@ -36,3 +36,9 @@ and peripherals.
 
 External mouse used as part of the workstation setup for daily IT lab and
 technical support activities.
+
+## Ubuntu 22.04 VirtualBox Home Lab
+
+Built and configured an Ubuntu 22.04 Linux virtual machine using Oracle VirtualBox, including virtual networking, storage configuration, and LVM expansion.
+
+[View Ubuntu 22.04 VirtualBox Home Lab](Ubuntu-22.04-VirtualBox)
